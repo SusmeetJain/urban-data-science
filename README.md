@@ -11,4 +11,6 @@ The data for this work is obtained from open street maps. It is an open source, 
 #### Running this project
 You can clone the entire project or just the jupyter notebook 'Visualizing Walkability in Mumbai.ipynb'. Rest of the files can be generated as you run the code in the notebook.
 
-
+#### Our Finding
+This is one of the few visualizations that we have created in this project. The green areas are more walkable parts of the city.
+![alt text](https://raw.githubusercontent.com/SusmeetJain/walkable_Mumbai/master/images/accessibility-all-Mumbai.png)
